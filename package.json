@@ -1,0 +1,25 @@
+{
+  "name": "graybaord",
+  "version": "0.0.0",
+  "description": "white label ui for Blackboard Inc api",
+  "main": "noop",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchandleraz/grayboard.git"
+  },
+  "keywords": [
+    "rest",
+    "react",
+    "party",
+    "mcaz"
+  ],
+  "author": "@mchandleraz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mchandleraz/grayboard/issues"
+  },
+  "homepage": "https://github.com/mchandleraz/grayboard#readme"
+}
